@@ -1,2 +1,2 @@
 # alumni
- This is Backend side project.
+ This is a Backend side project.
